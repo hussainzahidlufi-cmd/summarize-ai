@@ -1,0 +1,6 @@
+{
+  "name": "SummarizeAI - Video & Audio Intelligence",
+  "description": "Smart AI Video and Audio Summarizer supporting YouTube URLs, recorded media, Google Drive sync, and downloaded video lectures into Roman Urdu, Urdu, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
