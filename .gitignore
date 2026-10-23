@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.mp3
+*.wav
+*.txt
+*.csv
+*.log
+.DS_Store
+temp_offline_audio*
